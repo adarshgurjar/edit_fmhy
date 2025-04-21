@@ -208,7 +208,6 @@
 * [Viddit](https://viddit.red/) - Reddit Video Downloaders
 * [gallery-dl](https://github.com/mikf/gallery-dl) - Reddit Bulk Image Downloaders
 * [saveddit](https://github.com/p-ranav/saveddit) - Reddit Bulk Media Downloaders
-
 ***
 
 ## ▷ Reddit Alternatives
@@ -573,7 +572,7 @@
 * [tinfoleak](https://tinfoleak.com/) - View Your Geosocial Footprint
 * [Twitter Mass Unfollow](https://github.com/luqmanoop/twitter-mass-unfollow) - X.com Unfollow Tool
 * [Twitter Detector](https://github.com/stilliard/Twitter-detector) - Detect X.com Link on a Page
-
+* [Twitter Downloader](https://twtsave.com/) - Downloads videos and gifs from X.com
 ***
 
 ## ▷ Twitter/X Archiving
@@ -619,7 +618,7 @@
 * [News Feed Eradicator](https://west.io/news-feed-eradicator/) - Hide Facebook News Feed
 * [Lookup ID](https://lookup-id.com/) - Find Facebook ID
 * [Unlike-Everything](https://github.com/tlorien/Unlike-Everything-on-Facebook) - Remove All Facebook Likes
-
+* [Facebook Downloader](https://ffsaver.com) - Downloads videos and reels from facebook
 ***
 
 # ► Instagram Tools
